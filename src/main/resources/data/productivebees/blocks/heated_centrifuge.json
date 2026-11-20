@@ -1,0 +1,9 @@
+{
+  "block": "productivebees:heated_centrifuge",
+  "name": "Heated Centrifuge",
+  "description": "Processes honeycombs faster when heated!",
+  "hardness": 2.0,
+  "resistance": 3.0,
+  "harvest_level": 1,
+  "harvest_tool": "pickaxe"
+}

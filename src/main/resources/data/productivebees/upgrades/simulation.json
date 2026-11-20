@@ -1,0 +1,8 @@
+{
+  "id": "productivebees:simulation",
+  "name": "Simulation Upgrade",
+  "description": "Bees work even when you're far away!",
+  "max_count": 1,
+  "tier": 4
+}
+

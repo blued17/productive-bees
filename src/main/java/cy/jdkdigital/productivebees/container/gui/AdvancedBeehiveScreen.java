@@ -1,5 +1,10 @@
 package cy.jdkdigital.productivebees.container.gui;
 
+import cy.jdkdigital.productivebees.item.BeeCageItem;
+import cy.jdkdigital.productivebees.capability.CapabilityBee;
+import cy.jdkdigital.productivebees.init.ModItems;
+import net.minecraft.util.ResourceLocation;
+import javax.annotation.Nonnull;
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
 import cy.jdkdigital.productivebees.ProductiveBees;

@@ -1,0 +1,18 @@
+{
+  "entity_type": "productivebees:chaos",
+  "type": "productivebees:advanced",
+  "name": "Chaos Bee",
+  "description": "Wild and unpredictable energy!",
+  "color": "9932CC",
+  "secondary_color": "FF4500",
+  "species": "chaos",
+  "temperature": "warm",
+  "productivity": 1.5,
+  "lifespan": 0.7,
+  "behavior": "nocturnal",
+  "flowers": "#minecraft:flowers",
+  "hive": "productivebees:advanced_beehive",
+  "produce": "productivebees:chaos_honeycomb",
+  "produce_amount": 3,
+  "production_ticks": 400
+}

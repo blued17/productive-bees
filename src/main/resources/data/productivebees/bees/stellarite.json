@@ -1,0 +1,18 @@
+{
+  "entity_type": "productivebees:stellarite",
+  "type": "productivebees:advanced",
+  "name": "Stellarite Bee",
+  "description": "A bee that shimmers like starlight.",
+  "color": "87CEFA",
+  "secondary_color": "FFFFFF",
+  "species": "stellarite",
+  "temperature": "cold",
+  "productivity": 1.2,
+  "lifespan": 1.1,
+  "behavior": "diurnal",
+  "flowers": "#minecraft:stone_bricks",
+  "hive": "productivebees:advanced_beehive",
+  "produce": "productivebees:stellarite_honeycomb",
+  "produce_amount": 2,
+  "production_ticks": 600
+}

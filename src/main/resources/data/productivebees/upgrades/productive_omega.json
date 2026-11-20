@@ -1,0 +1,8 @@
+{
+  "id": "productivebees:productive_omega",
+  "name": "Productive Omega Upgrade",
+  "description": "Massive production boost!",
+  "max_count": 1,
+  "tier": 5,
+  "production_multiplier": 5.0
+}

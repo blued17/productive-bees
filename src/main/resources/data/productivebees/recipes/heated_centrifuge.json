@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "CFC",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "C": "productivebees:centrifuge",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "item": "productivebees:heated_centrifuge"
+  }
+}
